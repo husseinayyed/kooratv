@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+main div {
+  display:flex;
+  color:var(--main-color);
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+}
+
+.my-video {
+  width:80%;
+}

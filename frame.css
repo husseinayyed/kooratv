@@ -1,0 +1,40 @@
+.link {
+  color:initial;
+  text-decoration:none;
+}
+.margin-s {
+  margin-top:30px;
+}
+.margin-m {
+  margin-top:60px;
+}
+.margin-l {
+  margin-top:100px;
+}
+.h1 {
+  margin:0;
+  text-align:center;
+  color:var(--main-color-s);
+}
+.w-b {
+  color:white;
+  font-weight:bold;
+}
+.rel {
+  position:relative;
+}
+.abs {
+  position:absolute;
+}
+.center {
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+.info .text {
+  color:var(--text-color);
+}
+a {
+  text-decoration:none;
+}
